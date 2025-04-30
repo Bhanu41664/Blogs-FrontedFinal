@@ -7,7 +7,7 @@ function Single() {
   return (
     <div className="single">
         <SinglePost></SinglePost>
-        <div className="sidebarhome container ">
+        <div className="sidebarhome container  content">
 
         <Sidebar></Sidebar>
         </div>
