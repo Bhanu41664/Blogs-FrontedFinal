@@ -34,7 +34,7 @@ function Register() {
     <div className='Login'>
         <form className='loginform' onSubmit={handleSubmit}>
         
-            <input type="text" placeholder='Enter the username'
+            <input type="text" placeholder='Enter the username and password'
             onChange={e =>setUsername(e.target.value)}
             />
             
